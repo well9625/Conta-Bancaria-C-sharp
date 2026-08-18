@@ -26,3 +26,4 @@ C:\Users\Niki\Documents\TEST\Conta-Bancaria-C-sharp\obj\Debug\net10.0\refint\TEM
 C:\Users\Niki\Documents\TEST\Conta-Bancaria-C-sharp\obj\Debug\net10.0\TEMP.pdb
 C:\Users\Niki\Documents\TEST\Conta-Bancaria-C-sharp\obj\Debug\net10.0\TEMP.genruntimeconfig.cache
 C:\Users\Niki\Documents\TEST\Conta-Bancaria-C-sharp\obj\Debug\net10.0\ref\TEMP.dll
+C:\Users\Niki\Documents\TEST\Conta-Bancaria-C-sharp\obj\Debug\net10.0\TEMP.sourcelink.json

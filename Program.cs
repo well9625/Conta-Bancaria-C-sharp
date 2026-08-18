@@ -1,5 +1,4 @@
-﻿using System.Security.Cryptography.X509Certificates;
-// t
+﻿using usuarios;
 class Conta
 {
     private float Saldo;
@@ -63,6 +62,8 @@ class MainClass
             Console.WriteLine(" 0 - Sair                        ");
             Console.WriteLine("=================================");
             Console.Write("Escolha uma opção: ");
+            usuarios.user usuario = new usuarios.user();
+            Console.Write(usuario.pessoa);
             menu = Console.ReadLine() ?? "";
 
             switch (menu)
