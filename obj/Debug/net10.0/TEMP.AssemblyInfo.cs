@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TEMP")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c0716765eccfbf49fea5423e1503027e1948dc45")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+93a4c42a0f03726af569fc5508283c1e29bd52fe")]
 [assembly: System.Reflection.AssemblyProductAttribute("TEMP")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TEMP")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
